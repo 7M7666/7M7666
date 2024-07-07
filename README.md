@@ -13,24 +13,17 @@
 - 🌱 我目前正在学习**数据结构和算法**
 
 
-- 👨‍💻 All of my projects are available at [7M7666.github.io](7M7666.github.io)
-- 👨 💻 我所有的项目都可以在 [7M7666.github.io]（7M7666.github.io） 找到
+- 👨‍💻 All of my projects are available at https://github.com/7M7666
+- 👨 💻 我所有的项目都可以在 https://github.com/7M7666 找到
 
 
 - 📝 I regularly write articles on [7M7666.github.io](7M7666.github.io)
 - 📝 我经常在[7M7666.github.io]（7M7666.github.io）上写文章
 
 
-- 💬 Ask me about **c**
-- 💬 问我关于**c**的问题
-
 
 - 📫 How to reach me **liwanlin7M7@163.com**
 - 📫 如何联系我 **liwanlin7M7@163.com**
-
-
-- 📄 Know about my experiences [7M7666.github.io](7M7666.github.io)
-- 📄 了解我的经历 [7M7666.github.io]（7M7666.github.io）
 
 
 <h3 align="left">Connect with me:</h3>
