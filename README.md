@@ -1,4 +1,3 @@
-## Hi there 👋
 --><h1 align="center">Hi 👋, I'm 7M7</h1>
 <h1 align=“center”>嗨👋，我是7M7</h1>
 
