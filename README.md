@@ -1,8 +1,8 @@
 --><h1 align="center">Hi 👋, I'm 7M7</h1>
-<h1 align=“center”>嗨👋，我是7M7</h1>
+<h1 align=“center”>嗨👋，我是李宛霖</h1>
 
 <h3 align="center">A beginner code enthusiast from Ocean University of China</h3>
-<h3 align=“center”>中国海洋大学初学者代码爱好者</h3>
+<h3 align=“center”>2024级数据科学与大数据技术专业</h3>
 
 
 - 🔭 I’m currently working on **Computer competition**
