@@ -1,88 +1,92 @@
 <div align="center">
 
-<h1>Hi 👋, I'm 7M7</h1>
-<h2>嗨 👋，我是李宛霖</h2>
+< img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Hi+There!+I'm+7M7+👋;OUC+Data+Science+Student;Java+%26+Data+Enthusiast;Always+Learning..." alt="Typing SVG" />
 
-<p>
-  <em>A beginner code enthusiast from Ocean University of China</em><br/>
-  <em>中国海洋大学 · 2024 级 · 数据科学与大数据技术</em>
-</p>
+<h2 align="center">李宛霖 (7M7)</h2>
 
-<p>
-  <a href="https://github.com/7M7666">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-7M7666-181717?logo=github"/>
-  </a>
+<p align="center">
+  <b>Ocean University of China · Class of 2024 · Data Science</b><br/>
+  中国海洋大学 · 2024 级 · 数据科学与大数据技术
+</p >
+
+<p align="center">
+  <a href=" ">
+    < img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a >
   <a href="https://7M7666.github.io">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-7M7666.github.io-0A0A0A"/>
-  </a>
+    < img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog">
+  </a >
   <a href="mailto:liwanlin7M7@163.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-liwanlin7M7%40163.com-1f6feb"/>
-  </a>
-</p>
+    < img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a >
+</p >
 
 </div>
 
 ---
 
-## About Me · 关于我
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-- 🔭 **Now**：computer competitions + small data projects (Java / SQL / ETL + simple dashboards)  
-  🔭 **现在**：计算机竞赛 + 数据向迷你项目（Java / SQL / ETL + 简易看板）
+### 👨‍💻 About Me · 关于我
 
-- 🌱 **Learning**：DSA patterns, Java OOP/collections/I/O, SQL joins & window functions  
-  🌱 **在学**：算法题型、Java 面向对象/集合/I/O、SQL 多表与窗口函数
+- 🔭 **Focus**: Computer Competitions & Mini Data Projects  
+  (Java / SQL / ETL / Dashboards)
+- 🌱 **Learning**: DSA Patterns, Java OOP/IO, SQL Window Functions
+- 🎯 **Goal (By 12/31)**:
+  - Ship a **Data Dashboard + Cron Job**
+  - Solve **45+** LeetCode/DSA problems
+- 🤝 **Connect**:
+  - **VX**: `y7M7_666y`
+  - **QQ**: `3489237744`
 
-- 🎯 **By 12/31**：finish a *mini data dashboard + cron job* · 45+ solved DSA  
-  🎯 **到 12/31**：完成 *数据看板 + 定时任务* 小项目 · 算法累计 45+
-
-- 👨‍💻 **Projects**：<https://github.com/7M7666>  
-  📝 **Notes/Blog**：<https://7M7666.github.io>
-
-- 📫 **Contact**：**liwanlin7M7@163.com**  
-  🤝 **VX / QQ**：**y7M7_666y** · **3489237744**
-
----
-
-## Languages & Tools · 语言与工具
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="38" height="38"/>
-  </a>
-</p>
+    </td>
+    <td width="45%" valign="top">
+      <div align="center">
+        < img src="https://github-readme-stats.vercel.app/api?username=7M7666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="7M7's Github Stats" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## What I’m Building Next · 接下来做什么
-
-- ✅ **Mini Data Dashboard**：daily CSV → ETL → DB → 3–5 core charts  
-  ✅ **迷你数据看板**：每日 CSV → 清洗入库 → 3–5 张核心图表
-
-- ⏱️ **Cron-based Daily Job**：refresh data & outputs with logs and basic checks  
-  ⏱️ **定时任务**：每日刷新数据与图表，带日志与基础校验
-
-- 📚 **DSA Practice**：10 core patterns（arrays/hash/two-pointers/sliding-window/binary-search/linked-list/stack&queue/tree/graph/sort）  
-  📚 **题型练习**：10 大算法模式（数组/哈希/双指针/滑窗/二分/链表/栈队/树/图/排序）
-
----
-
-## Minimal Changelog · 迷你更新日志
-- 2025-11-05：初始化极简版 README，设定 12/31 里程碑
-
----
+### 🛠️ Languages & Tools · 技术栈
 
 <div align="center">
 
-**Thanks for stopping by · 感谢你的到访**  
-<img src="https://img.shields.io/badge/Keep%20Learning-持续学习-10b981"/>
+< img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+< img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+< img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+< img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<br/>
+< img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+< img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+< img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
+</div>
+
+---
+
+### 🚀 What I’m Building Next · 路线图
+
+| Status | Project / Task | Description |
+| :---: | :--- | :--- |
+| 🏗️ | **Mini Data Dashboard** | `Daily CSV` → `ETL` → `DB` → `Core Charts` (每日数据清洗入库与展示) |
+| ⏱️ | **Cron-based Job** | Auto-refresh data with logs & checks (带日志与校验的定时任务) |
+| 📚 | **DSA Practice** | Arrays, Hash, Two-pointers, Sliding-window, Binary-search, Stack/Queue... |
+
+---
+
+### 📅 Minimal Changelog
+
+> **2025-11-05**: 初始化极简版 README，设定 12/31 里程碑。
+
+<br/>
+
+<div align="center">
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <br />
+  <sub><i>Thanks for stopping by! Let's code for a better world.</i></sub>
 </div>
