@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 李宛霖 · 7M7
+# 7M7
 
 **Ocean University of China · Class of 2024 · Data Science**  
 **中国海洋大学 · 2024 级 · 数据科学与大数据技术**
@@ -25,10 +25,10 @@
 
 ```text
 ┌──────────────────────────────────────────────┐
-│ NAME   : 李宛霖 / 7M7                        │
-│ ROLE   : 数据开发实习生｜学习中              │
-│ EMAIL  : liwanlin0525@gmail.com             │
-│ BLOG   : 7M7666.github.io                   │
+│ NAME   : 7M7                                 │
+│ ROLE   : 数据开发实习生｜学习中                │
+│ EMAIL  : liwanlin0525@gmail.com              │
+│ BLOG   : 7M7666.github.io                    │
 └──────────────────────────────────────────────┘
 ```
 
