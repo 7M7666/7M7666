@@ -1,19 +1,9 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=7M7666&theme=crt&include_all_commits=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=7M7666&theme=fuji&pixelate_avatar=true&dithering=true"
-  />
-  <img
-    alt="7M7's pixel profile"
-    src="https://pixel-profile.vercel.app/api/github-stats?username=7M7666&theme=fuji&pixelate_avatar=true&dithering=true"
-  />
-</picture>
+<img
+  src="https://pixel-profile.vercel.app/api/github-stats?username=7M7666&theme=fuji"
+  alt="7M7 Pixel Profile"
+/>
 
 <br/>
 
