@@ -17,28 +17,4 @@
   <img src="https://img.shields.io/badge/GITHUB-0D0B14?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-</div>
 
----
-
-```text
-┌─ STACK ───────────────────────────────┐
-│ Python    ████████░░                  │
-│ Java      ██████░░░░                  │
-│ SQL       ███████░░░                  │
-│ Git       ██████░░░░                  │
-└───────────────────────────────────────┘
-```
-
-```text
-> clean data
-> build tools
-> write notes
-> ship projects
-```
-
-<div align="center">
-
-<sub>PRESS START TO BUILD</sub>
-
-</div>
