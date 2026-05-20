@@ -2,57 +2,9 @@
 
 <br/>
 
-<img src="./assets/pixel-apple.png" width="88" alt="7M7 pixel avatar" />
+<img src="./profile-card.svg" alt="7M7 pixel profile card" width="860" />
 
 <br/>
-<br/>
-
-```text
-█▀▀ █▀▄▀█ █▀▀
-▀▀█ █ ▀ █ █▀▀
-▀▀▀ ▀   ▀ ▀▀▀
-```
-
-<h3>7M7</h3>
-
-<p>
-  Data Science Student · Data Development Intern<br/>
-  Ocean University of China · Class of 2024
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/PIXEL-0D0B14?style=flat-square&labelColor=0D0B14&color=A78BFA" />
-  <img src="https://img.shields.io/badge/DATA_DEV-0D0B14?style=flat-square&labelColor=0D0B14&color=38BDF8" />
-  <img src="https://img.shields.io/badge/BUILDING-0D0B14?style=flat-square&labelColor=0D0B14&color=22C55E" />
-</p>
-
-</div>
-
----
-
-```text
-╭──────────────────────────────╮
-│                              │
-│   START  >  7M7.profile       │
-│                              │
-│   LOAD   >  data science      │
-│   BUILD  >  backend / tools   │
-│   WRITE  >  notes / blogs     │
-│                              │
-╰──────────────────────────────╯
-```
-
-```text
-PLAYER
-  name      7M7
-  school    Ocean University of China
-  major     Data Science & Big Data
-  role      Data Development Intern
-  mode      learning / building / debugging
-```
-
-<div align="center">
-
 <br/>
 
 <a href="https://7M7666.github.io">
@@ -65,36 +17,28 @@ PLAYER
   <img src="https://img.shields.io/badge/GITHUB-0D0B14?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<br/>
-<br/>
-
 </div>
-
-### Stack
-
-```text
-Python     ████████░░
-Java       ██████░░░░
-SQL        ███████░░░
-Git        ██████░░░░
-Linux      █████░░░░░
-```
-
-### Now
-
-```text
-> building small projects
-> cleaning messy data
-> writing things down
-> getting better, one commit at a time
-```
 
 ---
 
+```text
+┌─ STACK ───────────────────────────────┐
+│ Python    ████████░░                  │
+│ Java      ██████░░░░                  │
+│ SQL       ███████░░░                  │
+│ Git       ██████░░░░                  │
+└───────────────────────────────────────┘
+```
+
+```text
+> clean data
+> build tools
+> write notes
+> ship projects
+```
+
 <div align="center">
 
-<sub>
-  PRESS START TO BUILD
-</sub>
+<sub>PRESS START TO BUILD</sub>
 
 </div>
