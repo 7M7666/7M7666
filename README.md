@@ -1,10 +1,5 @@
 <div align="center">
 
-<img
-  src="https://pixel-profile.vercel.app/api/github-stats?username=7M7666&theme=fuji"
-  alt="7M7 Pixel Profile"
-/>
-
 <br/>
 
 <h1>7M7</h1>
