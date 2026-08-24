@@ -54,29 +54,7 @@ I use this space to keep track of projects, coursework and things I learn along 
 <tr>
 <td width="50%" valign="top">
 
-### Mobile Development
 
-Course projects and experiments for mobile software development.
-
-`Mobile` `Coursework`
-
-<a href="https://github.com/7M7666/Mobile-Development2026">View repository →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Personal Blog
-
-Notes on programming, coursework and things worth documenting.
-
-`Hugo` `Notes`
-
-<a href="https://7M7666.github.io">Visit blog →</a>
-
-</td>
-</tr>
-</table>
 
 
 ## Stack
