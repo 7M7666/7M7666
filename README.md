@@ -90,21 +90,6 @@ Notes on programming, coursework and things worth documenting.
 </p>
 
 
-## Activity
-
-<div align="center">
-
-<img
-  height="150"
-  src="https://github-readme-stats.vercel.app/api?username=7M7666&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=A7A0B5&icon_color=8B7CF6&ring_color=8B7CF6"
-/>
-
-<img
-  height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=7M7666&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=A7A0B5&icon_color=8B7CF6"
-/>
-
-</div>
 
 <br/>
 
