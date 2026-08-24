@@ -48,12 +48,6 @@ Data Science student interested in data analysis, machine learning and software 
 I use this space to keep track of projects, coursework and things I learn along the way.
 
 
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 
 
 
